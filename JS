@@ -1,0 +1,4 @@
+function mostrarMensagem() {
+  const div = document.getElementById('mensagem');
+  div.innerHTML = "<p>Você é capaz de conquistar tudo o que quiser. Acredite em você!</p>";
+}
