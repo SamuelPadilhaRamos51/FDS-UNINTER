@@ -1,0 +1,52 @@
+body {
+  background-color: #e6f2ff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #003366;
+  text-align: center;
+}
+
+p {
+  font-size: 18px;
+  text-align: justify;
+  margin: 20px;
+}
+
+ul {
+  line-height: 2em;
+}
+
+img {
+  border-radius: 8px;
+  width: 200px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+}
+
+table, th, td {
+  border: 1px solid #555;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+table img {
+  width: 100px;
+}
+
+a {
+  color: #003366;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #cc3300;
+}
